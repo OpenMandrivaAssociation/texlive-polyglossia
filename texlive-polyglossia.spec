@@ -1,3 +1,9 @@
+# revision 24291
+# category Package
+# catalog-ctan /macros/xetex/latex/polyglossia
+# catalog-date 2011-10-14 01:12:48 +0200
+# catalog-license lppl1.3
+# catalog-version v1.2.0cc
 Name:		texlive-polyglossia
 Version:	v1.2.0cc
 Release:	1
@@ -137,6 +143,7 @@ least. The current release offers support of 68 languages.
 %doc %{_texmfdistdir}/doc/xelatex/polyglossia/polyglossia.tex
 #- source
 %doc %{_texmfdistdir}/source/xelatex/polyglossia/polyglossia.dtx
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -147,3 +154,5 @@ least. The current release offers support of 68 languages.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar fonts tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
