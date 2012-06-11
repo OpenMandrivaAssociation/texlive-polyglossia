@@ -1,12 +1,12 @@
-# revision 24291
+# revision 26163
 # category Package
 # catalog-ctan /macros/xetex/latex/polyglossia
-# catalog-date 2011-10-14 01:12:48 +0200
+# catalog-date 2012-04-30 01:10:22 +0200
 # catalog-license lppl1.3
-# catalog-version v1.2.0cc
+# catalog-version v1.2.1
 Name:		texlive-polyglossia
-Version:	v1.2.0cc
-Release:	2
+Version:	v1.2.1
+Release:	1
 Summary:	Modern multilingual typesetting with XeLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/xetex/latex/polyglossia
@@ -75,6 +75,7 @@ least. The current release offers support of 68 languages.
 %{_texmfdistdir}/tex/xelatex/polyglossia/gloss-farsi.ldf
 %{_texmfdistdir}/tex/xelatex/polyglossia/gloss-finnish.ldf
 %{_texmfdistdir}/tex/xelatex/polyglossia/gloss-french.ldf
+%{_texmfdistdir}/tex/xelatex/polyglossia/gloss-friulan.ldf
 %{_texmfdistdir}/tex/xelatex/polyglossia/gloss-galician.ldf
 %{_texmfdistdir}/tex/xelatex/polyglossia/gloss-german.ldf
 %{_texmfdistdir}/tex/xelatex/polyglossia/gloss-greek.ldf
@@ -99,6 +100,7 @@ least. The current release offers support of 68 languages.
 %{_texmfdistdir}/tex/xelatex/polyglossia/gloss-polish.ldf
 %{_texmfdistdir}/tex/xelatex/polyglossia/gloss-portuges.ldf
 %{_texmfdistdir}/tex/xelatex/polyglossia/gloss-romanian.ldf
+%{_texmfdistdir}/tex/xelatex/polyglossia/gloss-romansh.ldf
 %{_texmfdistdir}/tex/xelatex/polyglossia/gloss-russian.ldf
 %{_texmfdistdir}/tex/xelatex/polyglossia/gloss-samin.ldf
 %{_texmfdistdir}/tex/xelatex/polyglossia/gloss-sanskrit.ldf
