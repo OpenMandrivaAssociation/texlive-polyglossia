@@ -6,7 +6,7 @@
 # catalog-version v1.33.3
 Name:		texlive-polyglossia
 Version:	v1.33.3
-Release:	5
+Release:	6
 Summary:	Modern multilingual typesetting with XeLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/polyglossia
