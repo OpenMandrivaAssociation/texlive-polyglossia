@@ -1,12 +1,12 @@
-# revision 31046
+# revision 34205
 # category Package
 # catalog-ctan /macros/latex/contrib/polyglossia
-# catalog-date 2013-05-28 18:20:04 +0200
+# catalog-date 2014-05-22 01:04:51 +0200
 # catalog-license lppl1.3
-# catalog-version v1.33.3
+# catalog-version v1.33.5
 Name:		texlive-polyglossia
-Version:	v1.33.3
-Release:	6
+Version:	v1.33.5
+Release:	1
 Summary:	Modern multilingual typesetting with XeLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/polyglossia
@@ -134,14 +134,12 @@ that role.
 %{_texmfdistdir}/tex/latex/polyglossia/hebrewcal.sty
 %{_texmfdistdir}/tex/latex/polyglossia/hijrical.sty
 %{_texmfdistdir}/tex/latex/polyglossia/nkonumbers.sty
-%{_texmfdistdir}/tex/latex/polyglossia/polyglossia-brpt.lua
 %{_texmfdistdir}/tex/latex/polyglossia/polyglossia-frpt.lua
 %{_texmfdistdir}/tex/latex/polyglossia/polyglossia-tibt.lua
 %{_texmfdistdir}/tex/latex/polyglossia/polyglossia.lua
 %{_texmfdistdir}/tex/latex/polyglossia/polyglossia.sty
 %{_texmfdistdir}/tex/latex/polyglossia/xgreek-fixes.def
 %doc %{_texmfdistdir}/doc/latex/polyglossia/README
-%doc %{_texmfdistdir}/doc/latex/polyglossia/chinese.tex
 %doc %{_texmfdistdir}/doc/latex/polyglossia/example-arabic.pdf
 %doc %{_texmfdistdir}/doc/latex/polyglossia/example-arabic.tex
 %doc %{_texmfdistdir}/doc/latex/polyglossia/example-thai.pdf
