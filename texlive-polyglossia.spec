@@ -1,6 +1,6 @@
 Name:		texlive-polyglossia
 Version:	1.43
-Release:	1
+Release:	2
 Summary:	Modern multilingual typesetting with XeLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/polyglossia
