@@ -1,5 +1,5 @@
 Name:		texlive-polyglossia
-Version:	64826
+Version:	65144
 Release:	1
 Summary:	Modern multilingual typesetting with XeLaTeX
 Group:		Publishing
