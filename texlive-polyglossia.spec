@@ -3,7 +3,7 @@ Version:	71813
 Release:	1
 Summary:	Modern multilingual typesetting with XeLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/polyglossia
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/polyglossia
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/polyglossia.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/polyglossia.doc.r%{version}.tar.xz
